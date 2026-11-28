@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public class CalculationUtils {
     public static <Q extends Number, P extends Number> double calculateTotal(Q quantity, P price) {

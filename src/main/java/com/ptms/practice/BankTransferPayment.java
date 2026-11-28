@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public class BankTransferPayment extends Payment {
     public BankTransferPayment(double amount) {

@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public class Pair<K, V> {
     private final K key;

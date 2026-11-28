@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 @FunctionalInterface
 public interface DiscountCalculator {

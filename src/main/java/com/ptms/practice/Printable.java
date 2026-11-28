@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public interface Printable {
     default void showStatus() {

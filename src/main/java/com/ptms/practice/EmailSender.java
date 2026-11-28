@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public class EmailSender implements NotificationSender {
     public EmailSender() {

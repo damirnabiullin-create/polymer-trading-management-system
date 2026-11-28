@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public interface NotificationSender {
     void send(String message);

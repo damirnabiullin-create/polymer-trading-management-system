@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public abstract class Payment {
     private final double amount;

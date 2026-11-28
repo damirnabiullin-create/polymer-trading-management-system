@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public abstract class Document {
     private final String number;

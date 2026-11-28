@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public class SalesManager extends Employee {
     public SalesManager(String name) {

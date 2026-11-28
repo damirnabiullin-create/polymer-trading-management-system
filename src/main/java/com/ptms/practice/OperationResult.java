@@ -1,4 +1,4 @@
-package com.ptms;
+package com.ptms.practice;
 
 public class OperationResult<T> {
     private final T result;
